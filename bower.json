@@ -1,0 +1,25 @@
+{
+  "name": "elJuego",
+  "authors": [
+    "Tobi <tobi@magier.be>"
+  ],
+  "description": "El Jeugo",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "magier.be",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.2.3",
+    "bootstrap": "~3.3.6",
+    "font-awesome": "~4.6.1",
+    "underscore": "~1.8.3"
+  }
+}
